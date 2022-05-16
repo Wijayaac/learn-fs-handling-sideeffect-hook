@@ -1,0 +1,31 @@
+Arguments: 
+  /home/wijaya/.nvm/versions/node/v16.13.0/bin/node /home/linuxbrew/.linuxbrew/Cellar/yarn/1.22.17/libexec/bin/yarn.js install
+
+PATH: 
+  /home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin:/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  16.13.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  SyntaxError: /home/wijaya/Desktop/learn/react-fs-udemy/handling-sideeffect-hook/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /home/linuxbrew/.linuxbrew/Cellar/yarn/1.22.17/libexec/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/home/linuxbrew/.linuxbrew/Cellar/yarn/1.22.17/libexec/lib/cli.js:310:30)
+      at /home/linuxbrew/.linuxbrew/Cellar/yarn/1.22.17/libexec/lib/cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
